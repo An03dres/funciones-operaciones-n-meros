@@ -1,0 +1,15 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+button {
+    padding: 10px 20px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+#output {
+    margin-top: 20px;
+    font-weight: bold;
+}
